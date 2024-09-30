@@ -1,0 +1,238 @@
+#logo{
+    width: 100px;
+}
+#container{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+#navbar1{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    background-color:rgb(237, 255, 249);
+}
+#item{
+    margin-right: 300px;
+}
+i{
+    margin-right: 80px;
+}
+.listItem{
+    display: inline-block;
+    margin: 10px 40px;
+}
+.listItem a{
+    color: rgba(128, 128, 128, 0.997);
+    text-decoration: none;
+    font-weight: 800;
+}
+input{
+    margin-right: 20px;
+    height: 20px;
+}
+#navbar2{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.504);
+}
+#navh2{
+    color: white;
+    margin-left: 200px;
+}
+#navbtn{
+    margin-right: 200px;
+    width: 100px;
+    height: 35px;
+    border-radius:25%;
+}
+#hotel1{
+    margin-top: 70px;
+    margin-left: 50px;
+}
+#div1{
+    display: flex;
+    background-color: rgb(233, 251, 245);
+}
+#div3{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+#divh2{
+    margin-left: 200px;
+}
+#divp1{
+    text-align: justify;
+    margin-right: 40px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+#divbtn{
+    width: 100px;
+    height: 40px;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+#divbtn:hover, #diva1:hover{
+    background-color: brown;
+    color: white;
+}
+#diva1{
+    text-decoration: none;
+    color:rgb(14, 14, 29);
+}
+#divh1{
+    text-align: center;
+    padding: 40px;
+    font-size: 50px;
+}
+
+.div5{
+    width: 100%;
+    height: 250px;
+    border: 1px solid black;
+    margin-top: 30px;
+    border-radius: 5px; 
+    display: flex;  
+}
+.div5 h3{
+    color: red;
+    font-size: 25px;
+    font-weight: 800;
+}
+.div6{
+    width: 260px;
+    height: 170px;
+    border: 1px solid white;
+    margin-left:15px;
+    margin-top: 50px;
+    display: flex;
+}
+.div6 p{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 50px;
+}
+.div6 img{
+    width: 55%;
+    height:85%;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: 18px;
+}
+#sech1{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 40px;
+}
+#div7{
+    width: 50%;
+    height: 130px;
+    border: 1px solid white;
+    margin-top: 100px;
+    margin-left: 140px;
+    display: flex;
+}
+#div8{
+    display: inline-flex;
+}
+#div8 i{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+#div9{
+    margin-left: 200px;
+    margin-top: 30px;
+}
+#div9 i{
+    margin-right: 10px;
+}
+#div9 i:hover{
+    color: red;
+}
+#div10{
+    display: flex;
+}
+.bar-container{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.base-bar{
+    width: 600px;
+    background-color: black;
+    height:4px;
+    border-radius:2px;
+    position: absolute;
+    bottom: 0px;
+}
+#star5-bar{
+    background-color: red;
+    width: 600px;
+}
+#star4-bar{
+    background-color: red;
+    width:80px;
+}
+#star3-bar{
+    background-color: red;
+    width:30px;
+}
+#star2-bar{
+    background-color: red;
+    width:0px;
+}
+#star1-bar{
+    background-color:yellow;
+    width:6px;
+}
+
+#div12{
+    margin-left: 200px;
+}
+#div11{
+    margin-left: 150px;
+    margin-top: 70px;
+}
+
+#div11 i{
+    margin-right: 10px;
+}
+
+.div13{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 30px;
+}
+#div14{
+    display: inline-flex;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.div15 a i{
+    color: black;
+}
+.div15 a i:hover{
+    color:blue;
+}
+#div16{
+    width: 100%;
+    height: 200px;
+    background-color: rgba(236, 228, 228, 0.788);
+}
+
+#foot p{
+    margin-left: 600px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+body{
+    background-color: rgb(233, 251, 245);
+}
+html{
+    scroll-behavior: smooth;
+}
